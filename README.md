@@ -1,4 +1,4 @@
-# Smart Connect4
+# Connect4-ai-game
 
 Intelligent Agent to play Connect-4 with a modifiable depth. App also offers a GUI decision tree visualizer to trace the minimax algorithm execution.
 
