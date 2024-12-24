@@ -4,7 +4,7 @@ Intelligent Agent to play Connect-4 with a modifiable depth. App also offers a G
 
 ## Table of Content
 
-- [Smart Connect4](#smart-connect4)
+- [Connect4-ai-game](#connect4-ai-game)
   - [Deployment](#deployment)
   - [State Representation](#state-representation)
   - [MiniMax Algorithm](#minimax-algorithm)
